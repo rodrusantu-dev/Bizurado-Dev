@@ -1,6 +1,6 @@
 # Projeto PROGRAMADOR AMIGO
 ## Aprendendo a programar de um jeito mais fácil!
-<img src="https://github.com/rodrusantu-dev/Programador-amigo/blob/main/imagens/marca-projeto/capa-baixares.png"/>
+<img align="right" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/imagens/marca-projeto/capa-baixares.png" width="200">
 
  
 Olá, mundo! 
