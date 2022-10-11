@@ -1,6 +1,6 @@
 # Projeto BIZURADO DEV
 ## Programação para transição de carreira!
-<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/imagens/projeto/capa2.svg">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/imagens/projeto/logo-github/capa2.svg">
 
  
 Olá, mundo! 
