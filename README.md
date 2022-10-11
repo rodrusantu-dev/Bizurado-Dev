@@ -1,12 +1,12 @@
-# Projeto PROGRAMADOR AMIGO
-## Aprendendo a programar de um jeito mais fácil!
-<img align="right" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/imagens/marca-projeto/capa-baixares.png" width="200">
+# Projeto BIZURADO DEV
+## Programação para transição de carreira!
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/imagens/projeto/capa2.svg">
 
  
 Olá, mundo! 
-Seja bem vindo ao projeto do **PROGRAMADOR AMIGO**, criado pelo camarada Rodrigo Menezes, em 09/10/2022, na madrugada, em meio à revisão de código, de um trabalho de conclusão do módulo de HTML e CSS do curso de DevFullstack na Fullture.
+Seja bem vindo ao projeto do **BIZURADO DEV**, criado pelo camarada Rodrigo Menezes, em 09/10/2022, na madrugada, em meio à revisão de código, de um trabalho de conclusão do módulo de HTML e CSS do curso de DevFullstack.
 
-Em meio a uma jornada inicial de desenvolvedor e programador, me deparei com vários obstáculos, que são mais impactantes para aqueles que assim como eu, estão migrando de outra área para a programação.
+TEXTO 1
 
 Pequenas tarefas por mais simples ou rotineiras podem obstar a intenção de vários colegas. Por isso resolvi criar uma série de documentos, que irei apelidar de “episódios”, em que vou explicar nuances e questões da programação.
 
