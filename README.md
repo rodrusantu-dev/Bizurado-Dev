@@ -1,6 +1,6 @@
 # Projeto PROGRAMADOR AMIGO
 ## Aprendendo a programar de um jeito mais fácil!
-<img src="https://github.com/rodrusantu-dev/Programador-amigo/blob/main/imagens/marca-projeto/final-mark.png"/>
+<img src="https://github.com/rodrusantu-dev/Programador-amigo/blob/main/imagens/marca-projeto/capa-baixares.png"/>
 
  
 Olá, mundo! 
@@ -14,11 +14,11 @@ Não sou Professor, não tenho este título e nem formação. Sou um entusiasta 
 
 ## 👨‍💻 Aulas 
 
-Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Programador-amigo/blob/main/Aulas.md)
+Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/aulas.md)
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Programador-amigo/blob/main/Colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto, seja um **Programador Amigo**
+Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto, seja um **Programador Amigo**
 
 ## 📌 Histórico
 
@@ -29,11 +29,11 @@ Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Programador
 
 * **Rodrigo Menezes** - *Trabalho Inicial* - [Criador](https://github.com/rodrusantu-dev)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Programador-amigo/blob/main/Colaborador.md) que participaram deste projeto.
+Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) que participaram deste projeto.
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/rodrusantu-dev/Programador-amigo/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
