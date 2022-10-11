@@ -18,7 +18,7 @@ Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto, seja um **Programador Amigo**
+Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
 
 ## 📌 Histórico
 
