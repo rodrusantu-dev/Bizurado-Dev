@@ -1,0 +1,9 @@
+/*RESPONSIVDADE DO CABEÇALHO*/
+@media screen and (min-width: 481px) and (max-width: 768px){
+    .menu-itens {
+     
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+}

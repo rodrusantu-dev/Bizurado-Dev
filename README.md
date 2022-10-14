@@ -18,7 +18,7 @@ Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
+> Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
 
 ## 📌 Histórico
 
@@ -29,11 +29,11 @@ Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-De
 
 * **Rodrigo Menezes** - *Trabalho Inicial* - [Criador](https://github.com/rodrusantu-dev)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) que participaram deste projeto.
+> Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) que participaram deste projeto.
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/LICENSE) para detalhes.
+> Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 

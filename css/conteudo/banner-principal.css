@@ -1,0 +1,10 @@
+
+/*AQUI OK 600PX TAMANHO CELULAR*/
+@media screen and (max-width: 1800px) {
+    .banner-principal {
+        width: 100%;
+        height: auto;
+        position: relative;
+ }
+    }
+

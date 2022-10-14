@@ -1,0 +1,13 @@
+.conteudo-principal {
+    display: flex;
+    justify-content: center;   
+    color: red;
+    font-size: 25px;
+}
+
+@media screen and (max-width: 768px) {
+    .conteudo-principal {
+       
+        text-align: center;
+    }
+}
