@@ -1,21 +1,27 @@
 # Projeto BIZURADO DEV
 <img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/web-site/banner-principal.png">
 
- 
-Olá, mundo! 
-Seja bem vindo ao projeto do  **BIZURADO DEV**, e ao *REPOSITÓRIO OPEN SOURCE* criado pelo camarada Rodrigo Menezes, em 09/10/2022, uma tarde de domingo, na madrugada, em meio à revisão de código, de um trabalho de conclusão do módulo de HTML e CSS do curso de DevFullstack.
+## 🍀 Vamor Interagir?
 
-Eu sei muito bem como é a dificuldade de se realizar uma **transição de carreira**, ainda mais quando já se tem muitos anos em uma determinada área de atuação! E quero compartilhar com você a coragem para mudar, e te mostrar o caminho, **independentemente da área** que você trabalha hoje, você pode migrar para a programação, desde que lógico você goste, e tenha paixão por isso.
+> Conto deste já com seu apoio na divulgação deste trabalho:
 
-Pequenas tarefas por mais simples ou rotineiras podem obstar a intenção de vários colegas. Por isso resolvi criar uma série de documentos, que irei apelidar de “apostilas”, em que vou explicar do mais absoluto zero, para qualquer pessoa leiga entender os conceitos e práticas iniciais deste universo.
+- Me siga no [Github](https://github.com/rodrusantu-dev)
+- Vamos interagir no [Linkedin](https://www.linkedin.com/in/rsantosmenezes/)
+- Olha o [Instagram](https://instagram.com/rodrusantu)
 
-Não sou Professor, não tenho este título e nem formação. Sou um entusiasta que gosta muito de aprender, e ensinar, assim te faço esse contive, para conhecer este trabalho e na medida do possível divulgar para que mais pessoas possam conhecer.
+## 🎯 Objetivo do Projeto!
 
-## 🔰 Website 
+>Olá, mundo! 
+>Seja bem vindo ao **BIZURADO DEV**, e ao *REPOSITÓRIO OPEN SOURCE* criado pelo camarada Rodrigo Menezes, em 09/10/2022, uma tarde de domingo, na madrugada, em meio à revisão de código, de um trabalho de conclusão do módulo de HTML e CSS do curso de DevFullstack. Eu sei muito bem como é a dificuldade de se realizar uma **transição de carreira**, ainda mais quando já se tem muitos anos em uma determinada área de atuação! E quero compartilhar com você a coragem para mudar, e te mostrar o caminho, **independentemente da área** que você trabalha hoje, você pode migrar para a programação, desde que lógico você goste, e tenha paixão por isso.
+
+## 🔰 Comence por aqui!
+> Pequenas tarefas por mais simples ou rotineiras podem obstar a intenção de vários colegas. Por isso resolvi criar uma série de documentos, que irei apelidar de “apostilas”, em que vou explicar do mais absoluto zero, para qualquer pessoa leiga entender os conceitos e práticas iniciais deste universo. Não sou Professor, não tenho este título e nem formação. Sou um entusiasta que gosta muito de aprender, e ensinar, assim te faço esse contive, para conhecer este trabalho e na medida do possível divulgar para que mais pessoas possam conhecer.
+
+## 🌐 Website 
 
 > Acesse o website do Projeto. Lembrando que ele foi desenvolvido do absoluto **ZERO** por mim, em meio a uma transição de carreira da área Administrativa para Programação.
 
-[ACESSE](https://bizurado.dev) - bizurado.dev (site ainda em construção, mas você pode consultar seu arquivo HTML e CCS aqui no GitHub
+- [ACESSE](https://bizurado.dev) - bizurado.dev (site ainda em construção, mas você pode consultar seu arquivo HTML e CCS aqui no GitHub
 
 ## 📕 Aulas 
 
@@ -34,8 +40,6 @@ Não sou Professor, não tenho este título e nem formação. Sou um entusiasta 
 ## ✒️ Autores
 
 * **Rodrigo Menezes** - *Trabalho Inicial* - [Criador](https://github.com/rodrusantu-dev)
-
-> Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/colaborador.md) que participaram deste projeto.
 
 ## 📄 Licença
 
