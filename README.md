@@ -12,9 +12,15 @@ Pequenas tarefas por mais simples ou rotineiras podem obstar a intenção de vá
 
 Não sou Professor, não tenho este título e nem formação. Sou um entusiasta que gosta muito de aprender, e ensinar, assim te faço esse contive, para conhecer este trabalho e na medida do possível divulgar para que mais pessoas possam conhecer.
 
+## 👨‍💻 Website 
+
+> Acesse o website do Projeto. Lembrando que ele foi desenvolvido do absoluto **ZERO** por mim, em meio a uma transição de carreira da área Administrativa para Programação.
+
+> [SITE](https://bizurado.dev) - www.bizurado.dev
+
 ## 👨‍💻 Aulas 
 
-Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/aulas.md)
+> Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/aulas.md)
 
 ## 🖇️ Colaborando
 
@@ -23,7 +29,8 @@ Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-
 ## 📌 Histórico
 
 #### Outubro/2022
-* Iniciado Projeto
+* Iniciado Projeto via GitHub
+* Iniciado Projeto via Website
 
 ## ✒️ Autores
 

@@ -5,7 +5,9 @@
     flex-direction: row;
     flex-wrap: wrap;    
     background-color: #eceeef;
-    border-bottom: 2px solid #a5bac5;    
+    border-bottom: 10px solid #a5bac5;    
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .titulo {
