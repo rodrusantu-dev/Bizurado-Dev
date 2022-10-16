@@ -1,14 +1,14 @@
 /*ESTILO CSS DO CONTEÚDO*/
-.conteudo-principal {
+.sobre {
     display: flex;
     justify-content: center;   
-    color: red;
-    font-size: 25px;
+    
+    font-size: 17px;
 }
 
 /*RESPONSIVIDADE DO FOOTER*/
 @media screen and (max-width: 768px) {
-    .conteudo-principal {
+    .sobre {
        
         text-align: center;
     }
