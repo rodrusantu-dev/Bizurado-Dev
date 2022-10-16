@@ -19,11 +19,11 @@ Não sou Professor, não tenho este título e nem formação. Sou um entusiasta 
 
 ## 📕 Aulas 
 
-> Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/aulas.md)
+> Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/aulas.md)
 
 ## 🤝 Colaborando
 
-> Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
+> Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
 
 ## 📌 Histórico
 
@@ -35,7 +35,7 @@ Não sou Professor, não tenho este título e nem formação. Sou um entusiasta 
 
 * **Rodrigo Menezes** - *Trabalho Inicial* - [Criador](https://github.com/rodrusantu-dev)
 
-> Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) que participaram deste projeto.
+> Você também pode ver a lista de todos os [colaboradores](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/colaborador.md) que participaram deste projeto.
 
 ## 📄 Licença
 
