@@ -1,6 +1,5 @@
 # Projeto BIZURADO DEV
-## Programação para transição de carreira!
-<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/imagens/projeto/logo-github/capa2.svg">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/web-site/banner-principal.png">
 
  
 Olá, mundo! 
@@ -12,17 +11,17 @@ Pequenas tarefas por mais simples ou rotineiras podem obstar a intenção de vá
 
 Não sou Professor, não tenho este título e nem formação. Sou um entusiasta que gosta muito de aprender, e ensinar, assim te faço esse contive, para conhecer este trabalho e na medida do possível divulgar para que mais pessoas possam conhecer.
 
-## 👨‍💻 Website 
+## 🔰 Website 
 
 > Acesse o website do Projeto. Lembrando que ele foi desenvolvido do absoluto **ZERO** por mim, em meio a uma transição de carreira da área Administrativa para Programação.
 
-> [SITE](https://bizurado.dev) - www.bizurado.dev
+[ACESSE](https://bizurado.dev) - bizurado.dev (site ainda em construção, mas você pode consultar seu arquivo HTML e CCS aqui no GitHub
 
-## 👨‍💻 Aulas 
+## 📕 Aulas 
 
 > Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/aulas.md)
 
-## 🖇️ Colaborando
+## 🤝 Colaborando
 
 > Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
 
