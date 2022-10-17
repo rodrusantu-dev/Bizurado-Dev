@@ -1,9 +1,11 @@
-.container {
+.container-cabecalho {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #eceeef;
     border-bottom: 10px solid #a5bac5;    
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .titulo {
