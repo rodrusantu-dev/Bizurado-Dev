@@ -1,13 +1,22 @@
-# Projeto BIZURADO DEV
+<p align="center">
+  <a href="https://github.com/rodrusantu-dev/Bizurado-Dev">
+    <img src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/web-site/logo-home2.png" alt="bizurado-dev" width="260" height="160">
+  </a>
+ </p>
+
+
 <img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/web-site/banner-principal.png">
 
 ## 🍀 Vamor Interagir?
 
 > Conto deste já com seu apoio na divulgação deste trabalho:
 
-- Me siga no [Github](https://github.com/rodrusantu-dev)
-- Vamos interagir no [Linkedin](https://www.linkedin.com/in/rsantosmenezes/)
-- Olha o [Instagram](https://instagram.com/rodrusantu)
+<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodrusantu-dev)
+[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rsantosmenezes/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rodrusantu)
+</sub>
 
 ## 🎯 Objetivo do Projeto!
 
