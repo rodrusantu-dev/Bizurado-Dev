@@ -22,8 +22,6 @@ Conto deste já com seu apoio na divulgação deste trabalho:
 
 > Pequenas tarefas por mais simples ou rotineiras podem obstar a intenção de vários colegas. Por isso resolvi criar uma série de documentos, que irei apelidar de “apostilas”, em que vou explicar do mais absoluto zero, para qualquer pessoa leiga entender os conceitos e práticas iniciais deste universo. Não sou Professor, não tenho este título e nem formação. Sou um entusiasta que gosta muito de aprender, e ensinar, assim te faço esse contive, para conhecer este trabalho e na medida do possível divulgar para que mais pessoas possam conhecer.
 
-- [ACESSE](https://bizurado.dev) - bizurado.dev (site ainda em construção, mas você pode consultar seu arquivo HTML e CCS aqui no GitHub
-
 ## 📕 Aulas 
 
 > Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/aulas.md)
