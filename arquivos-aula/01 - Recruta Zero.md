@@ -6,6 +6,9 @@
 Olá seja bem vindo(a) a aula inaugural do Projeto **Bizurado DEV** se você chegou até aqui, é porque já leu a nossa página principal. Nas aulas, vamos usar uma pessoa figurativa, que vou chamar de *RECRUTA ZERO*, que será o nosso aluno modelo, completamente zerado em programação, e com dificuldade de entender ainda por cima. 
 
 As aulas serão escritas aqui no GitHub, e irei postar o link, na página principal do Projeto bem como ao concluir cada Módulo irei postar também no site do Projeto o bizurado.dev.
+
+**Nesta aula você irá aprender:**
+> Criar uma página, codificando em HTML com: título, subtítulo e parágrafo, atribuindo ainda algumas caracteristicas simples de CCS
 > 
 ## 📋 Notas Iniciais.
 
@@ -34,7 +37,9 @@ As aulas serão escritas aqui no GitHub, e irei postar o link, na página princi
 * **INDEX** - Por padrão é o nome que tamos ao arquivo princpal do site, o aquivo HTML inicial
 
 ## 👨‍💻 Cumprindo a Missão!
-O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é você seguir o passo-a-passo sem pular nenhum comando.
+O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é você seguir o passo-a-passo sem pular nenhum comando. O resultado deste trabalho é exatamente para que você realize o que está proposto no início desta aulam
+
+### Criando o HTML básico
 
 * Crie uma PASTA no seu computador com o nome de *Site Recruta Zero*
 * Abra o programa do VS CODE, e vá em *arquivo* depois em *abrir pasta* e selecione a pasta que você criou
@@ -71,3 +76,7 @@ O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é
 </body>
 </html>
 ~~~~
+
+* Agora vou lhe explicar linha a linha desse código inicial, conforme figura abaixo:
+
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/arquivos-aula/arquivos-aula-img/ap1-img3.png" alt="ap1-img3">
