@@ -37,9 +37,6 @@
 
 > Acesse nosso repositório de [Aulas](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/aulas.md)
 
-## 🤝 Colaborando
-
-> Por favor, leia o [colaborador.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/Markdown/colaborador.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. Você pode fazer parte do nosso projeto.
 
 ## 📌 Histórico
 
@@ -47,15 +44,3 @@
 * Iniciado Projeto via GitHub
 * Iniciado Projeto via Website
 
-## ✒️ Autores
-
-* **Rodrigo Menezes** - *Trabalho Inicial* - [Criador](https://github.com/rodrusantu-dev)
-
-## 📄 Licença
-
-> Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/LICENSE) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Agradeço a DEUS, pelo dom da vida e a saúde.
-* Agradeço a minha esposa por me apoiar na transição de carreira

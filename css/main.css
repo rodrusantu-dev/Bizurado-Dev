@@ -1,0 +1,73 @@
+.conteudo-titulo {
+    display: flex;
+    justify-content: left;  
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    color: red;
+}
+
+.conteudo-subtitulo {
+    display: flex;
+    justify-content: center;   
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.conteudo-texto {
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-left: 250px;
+    padding-right: 250px;
+    text-align: justify;
+}
+
+.conteudo-titulo-aula {
+    display: flex;
+    justify-content: left;  
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    
+}
+
+.PARTE-AULAS {
+    background-color: rgb(7, 64, 148);
+    color: rgb(255, 255, 255);
+}
+
+
+@media screen and (max-width: 1080px) {
+   
+    .conteudo-titulo {
+        padding-top: 10px;
+        padding-bottom: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: justify;
+    }
+    
+    .conteudo-texto {
+        padding-top: 10px;
+        padding-bottom: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: justify;
+    }
+
+ 
+
+    .conteudo-titulo-aula {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: justify;
+    }
+
+ 
+
+
+}
