@@ -2,8 +2,8 @@
 .conteudo-principal {
     display: flex;
     justify-content: center;   
-    color: red;
-    font-size: 25px;
+    color: blueviolet;
+    font-size: 18px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
