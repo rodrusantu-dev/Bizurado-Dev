@@ -80,3 +80,8 @@ O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é
 * Agora vou lhe explicar linha a linha desse código inicial, conforme figura abaixo:
 
 <img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/arquivos-aula/arquivos-aula-img/ap1-img3.png" alt="ap1-img3">
+
+* Até aqui, você já tem o VS Code instalado no seu computador e você já cirou seu arquivo INDEX.HTML, com a estrutura básica.
+* Agora o que você passar a digitar de código realmente já será uma criação sua..
+
+Até a próxima aula!
