@@ -93,10 +93,6 @@
         text-align: justify;
     }
 
-}
-
-
-@media screen and (max-width: 500px){
     .form-button {
         max-width: initial;
     }
@@ -105,4 +101,6 @@
         padding-top: 56px;
         padding-bottom: 56px;
     }
+
 }
+
