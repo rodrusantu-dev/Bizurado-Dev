@@ -1,29 +1,28 @@
 .container-cabecalho {
     display: flex;
     justify-content: center;
-    align-items: center;
     background-color: #eceeef;
-    border-bottom: 10px solid #a5bac5;    
-    padding-top: 25px;
-    padding-bottom: 25px;
-}
+    border-bottom: 12px solid #a5bac5;    
+    padding-top: 20px;
+    padding-bottom: 20px;
+} 
 
 .logo-menor {
     width: 320px;  
 }
 
-/*RESPONSIVDADE DO CABEÇALHO*/
-@media screen and (max-width: 1800px){
+/*DIMINUI A LOGO QUANDO A TELA CHEGAR EM 800PX*/
+@media screen and (max-width: 800px){
     .logo-menor {
-        width: 300px;
+        width: 250px;
         
     }
-}
-@media screen and (max-width: 400px){
-    .logo-menor {
-        width: 190px;
-        
-    }
+/*DIMINUI A LOGO QUANDO A TELA CHEGAR EM 400PX (CELULAR)*/
+    @media screen and (max-width: 400px){
+        .logo-menor {
+            width: 180px;
+            
+        }
 }
 
 

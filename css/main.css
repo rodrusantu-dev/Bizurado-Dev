@@ -11,7 +11,7 @@
 .conteudo-subtitulo {
     display: flex;
     justify-content: center;   
-    padding-top: 20px;
+    padding-top: 05px;
     padding-bottom: 25px;
 }
 
@@ -38,9 +38,28 @@
     color: rgb(255, 255, 255);
 }
 
+.link-aula {
+    display: flex;
+    justify-content: center;
+}
+
+.link-logo {
+    height: 200px ;
+    width: 200px ;
+}
+
+.link-emtexto {
+    display: flex;
+    justify-content: center;   
+    padding-top: 05px;
+    padding-bottom: 25px;
+    font-weight: 600;
+    font-size: 22px;
+}
 
 @media screen and (max-width: 1080px) {
    
+
     .conteudo-titulo {
         padding-top: 10px;
         padding-bottom: 40px;
@@ -67,6 +86,16 @@
         text-align: justify;
     }
 
+    .link-emtexto {
+        display: flex;
+        justify-content: center;   
+        padding-top: 05px;
+        padding-bottom: 25px;
+        font-weight: 600;
+        font-size: 22px;
+        padding-left: 40px;
+        padding-right: 30px;
+    }
  
 
 
