@@ -46,7 +46,7 @@ O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é
 * Confirme caso apareça alguma mensagem de segurança
 * Se você fez tudo certo você terá uma tela como da imagem abaixo:
 
-<img align="center" src="img\aulas\HTML e CSS\ap1-img1.PNG" alt="ap1-img1">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap1-img1.PNG" alt="ap1-img1">
 
 * Se você não conseguiu (🥵) volte os passos. 
 * Se você conseguiu (🥳) continue a instrução.
@@ -55,7 +55,7 @@ O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é
 * Digite **index.html** e depois tecle ENTER
 * Se você fez tudo certo terá uma imagem conforme abaixo
 
-<img align="center" src="img\aulas\HTML e CSS\ap1-img2.PNG" alt="ap1-img2">
+<img align="center" src="[img\aulas\HTML e CSS\ap1-img2.PNG](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap1-img2.PNG)" alt="ap1-img2">
 
 **Até aqui tudo certo ? Tá fácil? Tá simples para aprender ?**
 
@@ -79,7 +79,7 @@ O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é
 
 * Agora vou lhe explicar linha a linha desse código inicial, conforme figura abaixo:
 
-<img align="center" src="img\aulas\HTML e CSS\ap1-img3.png" alt="ap1-img3">
+<img align="center" src="[img\aulas\HTML e CSS\ap1-img3.png](https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap1-img3.png)" alt="ap1-img3">
 
 * Até aqui, você já tem o VS Code instalado no seu computador e você já criou seu arquivo INDEX.HTML, com a estrutura básica.
 * Agora o que você passar a digitar de código realmente já será uma criação sua..
