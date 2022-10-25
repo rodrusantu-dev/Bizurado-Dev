@@ -7,3 +7,12 @@
 ## Para visualizar as 📕 aulas, acesse o Link abaixo:
  
 > ####  [Site do Projeto](https://rodrusantu-dev.github.io/Bizurado-Dev/) - Website das Aulas oficiais.
+
+
+## 🚨 Colabore! Participe do Projeto
+### Junte-se a *EUQUIPE* e seja mais um autor desse projeto.
+
+- Abra Pull Requests com atualizações
+- Discuta ideias em Issues
+- Compartilhe o repositório com a sua comunidade
+- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/rsantosmenezes/)
