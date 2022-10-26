@@ -27,10 +27,27 @@ Olá seja bem vindo(a). Nesta aula você irá aprender sobre o conceito e uso da
 ## 👨‍💻 Cumprindo a Missão!
 O cumprindo a missão é a etapa mão na massa, mas isso você já sabe né ? Como já fez a primeira aula, então o mais importante aqui é você seguir o passo-a-passo sem pular nenhum comando. O resultado deste trabalho é exatamente para que você realize o que está proposto no objetivo.
 
+### O que é uma TAG ?
+Uma tag é uma SIGLA que é padrão dentro da linguagem de HTML, já pré definidas, que faz o computador ler aquele determinado ESCRITO que você fez, dizendo para o navegador se aquilo que você escrever é um Título, um subtítulo, um texto (paragrafo.)
+
+Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digitar deverá ficar neste **intervalo** entre a abertura e fechamento, vou lhe dar o exemplo abaixo:
+
+~~~ HTML	
+<h1>Aqui você digita o título principal</h1>
+~~~
+
+~~~ HTML	
+<h2>Aqui você digita um subtítulo</h2>
+~~~
+
+~~~ HTML	
+<p>Aqui dentro da TAG de parágrafo você digita o texto normal do seu site</p>
+~~~
+
 ### Usando suas primeiras TAGs
 Neste trabalho vamos com **base na aula** criar o texto em HTML básico do nosso site.
 
-*Vamos primeiro relembrar o código inicial que fizemos na primeira aula:
+* Vamos primeiro relembrar o código inicial que fizemos na primeira aula:
 
 ~~~HTML da AULA 01
 <!DOCTYPE html>
