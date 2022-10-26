@@ -60,7 +60,7 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 * Ainda não conseguiu, vou deixar esse código abaixo completo para que você possa comparar se fez alguma coisa diferente no seu:
 
-~~~MODELO CITADO NESTA AULA
+~~~HTML
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -80,6 +80,7 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 
 * Até aqui, você já tem o VS Code instalado no seu computador e você já criou seu arquivo INDEX.HTML, com a estrutura básica.
-* Agora o que você passar a digitar de código realmente já será uma criação sua..
+* Você criou a estrutura do seu site com o código HTML igual da foto **Site Recruta Zero**
+* Na próxima aula, vamos fazer um **Estilo** para esse site, ou seja, deixar ele mais bonito.
 
 Até a próxima aula!
