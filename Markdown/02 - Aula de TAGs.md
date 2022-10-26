@@ -1,5 +1,5 @@
 
-# 👨‍🏫 Aula 2 - TAGS
+# 👨‍🏫 Aula 2 - O que são TAG´s
 
 ## 🎯 Aprendizado desta aula
 
