@@ -1,5 +1,5 @@
 
-# 👨‍🏫 Aula 2 - TAGS
+# 👨‍🏫 Aula 2 - O que são TAG´s
 
 ## 🎯 Aprendizado desta aula
 
@@ -46,7 +46,7 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 * Abaixo o modelo de como ficaria um exemplo no VSCODE (visualmente)
 
-<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img01.PNG" alt="ap2-img1" width="906" height="408">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img01.PNG" alt="ap2-img1">
 
 * Se você chegou legal até aqui está na hora de rodar o seu código, isso quer dizer o que ? fazer o VSCODE rodar o seu código e ver como ele ficaria como uma página na internet
 * * No VSCODE vá em EXECUTAR
@@ -54,13 +54,13 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 * Irá abrir uma visualização prévia que dando tudo certo será conforme a imagem abaixo:
 
-<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img02.PNG" alt="ap2-img2" width="906" height="500">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img02a.PNG" alt="ap2-img2">
 
 * Ficou feio né ? Mas ficou **feito** é isso aí você conseguiu fazer a sua primeira página na WEB.
 
 * Ainda não conseguiu, vou deixar esse código abaixo completo para que você possa comparar se fez alguma coisa diferente no seu:
 
-~~~MODELO CITADO NESTA AULA
+~~~HTML
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -80,6 +80,7 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 
 * Até aqui, você já tem o VS Code instalado no seu computador e você já criou seu arquivo INDEX.HTML, com a estrutura básica.
-* Agora o que você passar a digitar de código realmente já será uma criação sua..
+* Você criou a estrutura do seu site com o código HTML igual da foto **Site Recruta Zero**
+* Na próxima aula, vamos fazer um **Estilo** para esse site, ou seja, deixar ele mais bonito.
 
 Até a próxima aula!
