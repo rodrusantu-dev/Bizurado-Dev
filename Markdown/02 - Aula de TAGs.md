@@ -46,7 +46,7 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 * Abaixo o modelo de como ficaria um exemplo no VSCODE (visualmente)
 
-<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img01.PNG" alt="ap2-img1" width="906" height="408">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img01.PNG" alt="ap2-img1">
 
 * Se você chegou legal até aqui está na hora de rodar o seu código, isso quer dizer o que ? fazer o VSCODE rodar o seu código e ver como ele ficaria como uma página na internet
 * * No VSCODE vá em EXECUTAR
