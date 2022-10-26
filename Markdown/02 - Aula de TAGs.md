@@ -54,7 +54,7 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 
 * Irá abrir uma visualização prévia que dando tudo certo será conforme a imagem abaixo:
 
-<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img02.PNG" alt="ap2-img2" width="906" height="500">
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img02a.PNG" alt="ap2-img2">
 
 * Ficou feio né ? Mas ficou **feito** é isso aí você conseguiu fazer a sua primeira página na WEB.
 
