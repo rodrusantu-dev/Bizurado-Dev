@@ -44,29 +44,23 @@ Toda TAG ela tem a sua *abertura* e o seu *fechamento* ou seja, o que você digi
 <p>Aqui dentro da TAG de parágrafo você digita o texto normal do seu site</p>
 ~~~
 
-### Usando suas primeiras TAGs
-Neste trabalho vamos com **base na aula** criar o texto em HTML básico do nosso site.
+* Abaixo o modelo de como ficaria um exemplo no VSCODE (visualmente)
 
-* Vamos primeiro relembrar o código inicial que fizemos na primeira aula:
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img01.PNG" alt="ap2-img1" width="906" height="408">
 
-~~~HTML da AULA 01
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
-~~~~
+* Se você chegou legal até aqui está na hora de rodar o seu código, isso quer dizer o que ? fazer o VSCODE rodar o seu código e ver como ele ficaria como uma página na internet
+* * No VSCODE vá em EXECUTAR
+* * Depois em INICIAR A DEPURAÇÃO ou apertar a tecla F5
 
-* Agora vamos inserir o nosso texto neste código. Digite no seu VSCODE conforme abaixo, observe o que foi incluso no código abaixo:
+* Irá abrir uma visualização prévia que dando tudo certo será conforme a imagem abaixo:
 
-~~~ HTML COM TAGS
+<img align="center" src="https://github.com/rodrusantu-dev/Bizurado-Dev/blob/main/img/aulas/HTML%20e%20CSS/ap2-img02.PNG" alt="ap2-img2" width="906" height="500">
+
+* Ficou feio né ? Mas ficou **feito** é isso aí você conseguiu fazer a sua primeira página na WEB.
+
+* Ainda não conseguiu, vou deixar esse código abaixo completo para que você possa comparar se fez alguma coisa diferente no seu:
+
+~~~MODELO CITADO NESTA AULA
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -78,12 +72,12 @@ Neste trabalho vamos com **base na aula** criar o texto em HTML básico do nosso
 <body>
     <h1>Site do Recruta ZERO</h1>
     <h2>O programador mais batalhador do mercado</h2>
-
-    <p>Texto</p>
-
+    <p>Aqui você digita e desenvolve o seu texto, o que você quer escrever como parágrafo no seu site</p>
+   
 </body>
 </html>
 ~~~~
+
 
 * Até aqui, você já tem o VS Code instalado no seu computador e você já criou seu arquivo INDEX.HTML, com a estrutura básica.
 * Agora o que você passar a digitar de código realmente já será uma criação sua..
