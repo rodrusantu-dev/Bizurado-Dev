@@ -31,13 +31,13 @@ As aulas serão escritas aqui no GitHub, e irei postar o link, na página princi
 
 * **VSCODE** - É um dos principais programas de computador (software) que se usa para criar os códigos em HTML.
 * **HTML** - É um tipo de LINGUAGEM, não é programação, é marcação ou seja você marca o texto, para criar o esqueleto do site.
-* **CSS** - É a sigla que diz respeito ao embelzamento do seu site, a aprência, cores, formas, e posição das coisas.
+* **CSS** - É a sigla que diz respeito ao embelezamento do seu site, a aparência, cores, formas, e posição das coisas.
 * **SITE** - É o produto final do HTML com o CSS.
 * **TERMINAL** - Um local aonde você pode digitar alguma coisa e/ou um código, pode ter um traço piscando ou não
-* **INDEX** - Por padrão é o nome que tamos ao arquivo princpal do site, o aquivo HTML inicial
+* **INDEX** - Por padrão é o nome que damos ao arquivo principal do site, o arquivo HTML inicial
 
 ## 👨‍💻 Cumprindo a Missão!
-O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é você seguir o passo-a-passo sem pular nenhum comando. O resultado deste trabalho é exatamente para que você realize o que está proposto no início desta aulam
+O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é você seguir o passo-a-passo sem pular nenhum comando. O resultado deste trabalho é exatamente para que você realize o que está proposto no início desta aula.
 
 ### Criando o HTML básico
 
@@ -50,7 +50,7 @@ O cumprindo a missão é a etapa mão na massa, então o mais importante aqui é
 
 * Se você não conseguiu (🥵) volte os passos. 
 * Se você conseguiu (🥳) continue a instrução.
-* Na tela acima, do lado direito do nome *Site Recruta Zero* temos alguns icones, o primeiro dele é *novo arquivo*
+* Na tela acima, do lado direito do nome *Site Recruta Zero* temos alguns ícones, o primeiro dele é *novo arquivo*
 * Click neste ícone e em seguida vai abrir um terminal
 * Digite **index.html** e depois tecle ENTER
 * Se você fez tudo certo terá uma imagem conforme abaixo
