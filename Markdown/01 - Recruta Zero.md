@@ -16,7 +16,7 @@ As aulas serão escritas aqui no GitHub, e irei postar o link, na página princi
 
 2. Ah Rodrigo, eu não tenho intimidade com um computador, já mexi uma vez, mas mal sei ligar. Então antes de você se aventurar na programação sugiro que faça um curso básico de informática, pois algumas coisas, como digitar no teclado, instalar programa básico, saber salvar arquivos, etc é o mínimo necessário mesmo para o nosso Recruta Zero.
 
-## 🔰 Requisitos para esta aula.
+##  Requisitos para esta aula.
 * Computador (simples nada rebuscado não);
 * Internet (que funcione);
 * Saber instalar programa no computador;
