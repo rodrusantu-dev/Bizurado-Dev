@@ -1,4 +1,3 @@
-/*ESTILO CSS DO FOOTER*/
 .footer {
     display: flex;
     justify-content: center;
@@ -13,10 +12,11 @@
 
 }
 
-/*RESPONSIVIDADE DO FOOTER*/
 @media screen and (max-width: 375px) {
     .footer {
         margin: 0 0 0 0;
     }
 }
+
+
 
